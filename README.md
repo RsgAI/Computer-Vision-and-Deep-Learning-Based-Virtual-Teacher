@@ -10,8 +10,9 @@
 
 ---
 
-# *<center>Components</center>*
+# *Components*
 
+---
 ## Face Recognition
 An example of deep learning based face recognition.
 Face recognition part of virtual teacher uses single images as input.
