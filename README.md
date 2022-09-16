@@ -12,8 +12,6 @@
 
 # *<center>Components</center>*
 
----
-
 ## Face Recognition
 
 See [**Face Recognition Repository**](https://github.com/RsgAI/Face-Recognition "GitHub Repository") for details.
