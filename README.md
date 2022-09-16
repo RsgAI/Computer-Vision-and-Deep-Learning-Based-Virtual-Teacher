@@ -13,7 +13,8 @@
 # *<center>Components</center>*
 
 ## Face Recognition
-
+An example of deep learning based face recognition.
+Face recognition part of virtual teacher uses single images as input.
 See [**Face Recognition Repository**](https://github.com/RsgAI/Face-Recognition "GitHub Repository") for details.
 
 ---
