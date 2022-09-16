@@ -10,7 +10,7 @@
 
 ---
 
-# *Components*
+# *<center>Components</center>*
 
 ---
 ## Face Recognition
