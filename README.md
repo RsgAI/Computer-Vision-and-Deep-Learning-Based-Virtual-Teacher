@@ -71,11 +71,11 @@ For details of the Data Augmentation process used in this application, see also 
 
 ---
 
-# *<center>Components</center>*
+# *<center>Studies</center>*
 
 ---
 ## Face Recognition
-An example of deep learning based face recognition.
+An observational preliminary study for the training of the face recognition model, which is one of the components of this project.
 Face recognition part of virtual teacher uses single images as input.
 See [**Face Recognition Repository**](https://github.com/RsgAI/Face-Recognition "GitHub Repository") for details.
 
