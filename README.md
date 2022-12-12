@@ -80,6 +80,12 @@ Face recognition part of virtual teacher uses single images as input.
 See [**Face Recognition Repository**](https://github.com/RsgAI/Face-Recognition "GitHub Repository") for details.
 
 ---
+## Facial Expression Recognition
+An observational preliminary study for the training of the facial expression recognition model, which is one of the components of this project.
+Facial expression recognition part of virtual teacher uses single images as input.
+See [**Facial Expression Recognition**](https://github.com/RsgAI/Facial-Expression-Recognition "GitHub Repository") for details.
+
+---
 
 ## <center>_I'd Be Glad If You Report Any Mistakes You Notice._</center>
 
